@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stick_Game</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="logo_name">Pop-Stick-Pop</string>
+    <string name="play_button">Play !</string>
+    <string name="action_settings">Settings</string>
+</resources>
